@@ -1,5 +1,5 @@
 import { Text } from "react-native";
-import { View } from "../components/Themed";
+import { View } from "../../../components/Themed";
 import { useLocalSearchParams } from "expo-router";
 
 const ProductDetailsScreen = () => {
